@@ -71,6 +71,7 @@ Meeting Rooms | https://www.interviewbit.com/problems/meeting-rooms/
 N meeting in one room | https://practice.geeksforgeeks.org/problems/n-meetings-in-one-room/0
 Minimum Number Of Coins | https://practice.geeksforgeeks.org/problems/-minimum-number-of-coins/0
 Minimum number of platforms required for a railway | https://practice.geeksforgeeks.org/problems/minimum-platforms/0
+Fractional Knapsack | https://practice.geeksforgeeks.org/problems/fractional-knapsack/0
 
 ### Extras
 Topic | Link
