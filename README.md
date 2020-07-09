@@ -86,6 +86,7 @@ Combination Sum 1 | https://leetcode.com/problems/combination-sum/
 Combination Sum 2 | https://leetcode.com/problems/combination-sum-ii/
 Subset Sum 1 | https://practice.geeksforgeeks.org/problems/subset-sum-problem/0
 Pallindrome Partitioning | https://leetcode.com/problems/palindrome-partitioning/
+Word Break | https://practice.geeksforgeeks.org/problems/word-break/0
 
 ### Extras
 Topic | Link
