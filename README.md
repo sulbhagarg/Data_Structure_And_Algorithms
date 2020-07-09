@@ -78,6 +78,7 @@ Topic | Link
 --- | ---
 Sudoku Solver | https://leetcode.com/problems/sudoku-solver/
 Rat In A Maze | https://practice.geeksforgeeks.org/problems/rat-in-a-maze-problem/1
+N-Queens Problem | https://leetcode.com/problems/n-queens/
 
 ### Extras
 Topic | Link
