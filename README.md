@@ -84,6 +84,7 @@ Permutations Of Integers (distinct integers) | https://leetcode.com/problems/per
 Permutation Of Integers (duplicate possible) | https://leetcode.com/problems/permutations-ii/
 Combination Sum 1 | https://leetcode.com/problems/combination-sum/
 Combination Sum 2 | https://leetcode.com/problems/combination-sum-ii/
+Subset Sum 1 | https://practice.geeksforgeeks.org/problems/subset-sum-problem/0
 
 ### Extras
 Topic | Link
