@@ -73,6 +73,11 @@ Minimum Number Of Coins | https://practice.geeksforgeeks.org/problems/-minimum-n
 Minimum number of platforms required for a railway | https://practice.geeksforgeeks.org/problems/minimum-platforms/0
 Fractional Knapsack | https://practice.geeksforgeeks.org/problems/fractional-knapsack/0
 
+### BackTracking
+Topic | Link
+--- | ---
+Sudoku Solver | https://leetcode.com/problems/sudoku-solver/
+
 ### Extras
 Topic | Link
 --- | ---
