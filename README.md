@@ -77,6 +77,7 @@ Fractional Knapsack | https://practice.geeksforgeeks.org/problems/fractional-kna
 Topic | Link
 --- | ---
 Sudoku Solver | https://leetcode.com/problems/sudoku-solver/
+Rat In A Maze | https://practice.geeksforgeeks.org/problems/rat-in-a-maze-problem/1
 
 ### Extras
 Topic | Link
