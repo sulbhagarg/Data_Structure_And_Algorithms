@@ -80,7 +80,8 @@ Sudoku Solver | https://leetcode.com/problems/sudoku-solver/
 Rat In A Maze | https://practice.geeksforgeeks.org/problems/rat-in-a-maze-problem/1
 N-Queens Problem | https://leetcode.com/problems/n-queens/
 Permutations Of A String | https://practice.geeksforgeeks.org/problems/permutations-of-a-given-string/0
-Permutations Of Integers | https://leetcode.com/problems/permutations/
+Permutations Of Integers (distinct integers) | https://leetcode.com/problems/permutations/
+Permutation Of Integers (duplicate possible) | https://leetcode.com/problems/permutations-ii/
 
 ### Extras
 Topic | Link
