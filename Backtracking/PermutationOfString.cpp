@@ -15,7 +15,7 @@ bool isValid(string t, char s){
     return true;
 }
 
-void printPermutations(string s, int n, vector<string>& ans, string t, int idx){
+void printPermutations(string s, int n, vector<string>& ans, string t){
     if(t.length()==n){
         ans.push_back(t);
         return;
@@ -37,7 +37,7 @@ int main() {
 	    vector<string> ans;
 	    string temp;
 	    int n=s.length();
-	    printPermutations(s,n,ans,temp,0);
+	    printPermutations(s,n,ans,temp);
 	    for(int i=0;i<ans.size();i++){
 	        cout << ans[i] << " ";
 	    }
