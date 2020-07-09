@@ -83,6 +83,7 @@ Permutations Of A String | https://practice.geeksforgeeks.org/problems/permutati
 Permutations Of Integers (distinct integers) | https://leetcode.com/problems/permutations/
 Permutation Of Integers (duplicate possible) | https://leetcode.com/problems/permutations-ii/
 Combination Sum 1 | https://leetcode.com/problems/combination-sum/
+Combination Sum 2 | https://leetcode.com/problems/combination-sum-ii/
 
 ### Extras
 Topic | Link
