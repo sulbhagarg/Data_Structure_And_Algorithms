@@ -90,6 +90,11 @@ Pallindrome Partitioning | https://leetcode.com/problems/palindrome-partitioning
 Word Break | https://practice.geeksforgeeks.org/problems/word-break/0
 Word Breal (Print All Ways) | https://practice.geeksforgeeks.org/problems/word-break-part-2/0/
 
+### Divide And Conquer
+Topic | Link
+--- | ---
+Single Element in a Sorted Array | https://leetcode.com/problems/single-element-in-a-sorted-array/
+
 ### Extras
 Topic | Link
 --- | ---
