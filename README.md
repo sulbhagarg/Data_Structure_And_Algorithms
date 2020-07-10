@@ -94,6 +94,7 @@ Word Breal (Print All Ways) | https://practice.geeksforgeeks.org/problems/word-b
 Topic | Link
 --- | ---
 Single Element in a Sorted Array | https://leetcode.com/problems/single-element-in-a-sorted-array/
+Search in Rotated Sorted Array | https://leetcode.com/problems/search-in-rotated-sorted-array/
 
 ### Extras
 Topic | Link
