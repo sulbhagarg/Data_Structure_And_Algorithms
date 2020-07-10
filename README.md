@@ -85,6 +85,7 @@ Permutation Of Integers (duplicate possible) | https://leetcode.com/problems/per
 Combination Sum 1 | https://leetcode.com/problems/combination-sum/
 Combination Sum 2 | https://leetcode.com/problems/combination-sum-ii/
 Subset Sum 1 | https://practice.geeksforgeeks.org/problems/subset-sum-problem/0
+Subset sum 2 | https://leetcode.com/problems/partition-to-k-equal-sum-subsets/
 Pallindrome Partitioning | https://leetcode.com/problems/palindrome-partitioning/
 Word Break | https://practice.geeksforgeeks.org/problems/word-break/0
 Word Breal (Print All Ways) | https://practice.geeksforgeeks.org/problems/word-break-part-2/0/
