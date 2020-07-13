@@ -106,4 +106,5 @@ Partition List | https://leetcode.com/problems/partition-list/
 Plus One | https://leetcode.com/problems/plus-one/
 Valid Sudoku | https://leetcode.com/problems/valid-sudoku/
 Subsets | https://leetcode.com/problems/subsets/submissions/
-Longest Pallindromic Substring | https://leetcode.com/problems/longest-palindromic-substring/
+Longest Pallindromic Substring | https://leetcode.com/problems/longest-palindromic-substring/ 
+Find First and Last Position of Element in Sorted Array | https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/
