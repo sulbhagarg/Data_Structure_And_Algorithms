@@ -96,6 +96,16 @@ Topic | Link
 Single Element in a Sorted Array | https://leetcode.com/problems/single-element-in-a-sorted-array/
 Search in Rotated Sorted Array | https://leetcode.com/problems/search-in-rotated-sorted-array/
 
+### Strings
+Topic | Link
+--- | ---
+Longest Common Prefix | https://leetcode.com/problems/longest-common-prefix/
+Longest Pallindromic Substring | https://leetcode.com/problems/longest-palindromic-substring/
+Rabin Karp | https://leetcode.com/problems/implement-strstr/
+Repeated Substring Pattern | https://leetcode.com/problems/repeated-substring-pattern/
+Reverse Word In a Substring | https://leetcode.com/problems/reverse-words-in-a-string/
+Valid Anagram | https://leetcode.com/problems/valid-anagram/
+
 ### Extras
 Topic | Link
 --- | ---
