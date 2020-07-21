@@ -43,4 +43,33 @@ public:
 
 // ITERATIVE
 
-// coming soon
+class Solution {
+public:
+    vector<int> postorderTraversal(TreeNode* root) {
+        vector<int> v;
+        stack<TreeNode*> s;
+        TreeNode* temp=root;
+        int flag=0;
+        TreeNode* last=NULL;
+        while(!flag){
+            if(temp){
+                s.push(temp);
+                temp=temp->left;
+            } else {
+                if(!s.empty()){
+                    TreeNode* temp1=s.top();
+                    if(temp1->right && temp1->right!=last){
+                        temp=temp1->right;
+                    } else {
+                        v.push_back(temp1->val);
+                        last=temp1;
+                        s.pop();
+                    }
+                } else {
+                    flag=1;
+                }
+            }
+        }
+        return v;
+    }
+};
