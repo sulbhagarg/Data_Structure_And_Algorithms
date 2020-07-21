@@ -108,6 +108,11 @@ Valid Anagram | https://leetcode.com/problems/valid-anagram/
 Group Anagrams | https://leetcode.com/problems/group-anagrams/
 Find All Anagrams in a String | https://leetcode.com/problems/find-all-anagrams-in-a-string/
 
+### Binary Tree
+Topic | Link
+--- | ---
+Inorder Traversal | https://leetcode.com/problems/binary-tree-inorder-traversal/
+
 ### Extras
 Topic | Link
 --- | ---
