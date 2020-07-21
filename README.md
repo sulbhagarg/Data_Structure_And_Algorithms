@@ -116,6 +116,7 @@ Preorder Traversal | https://leetcode.com/problems/binary-tree-preorder-traversa
 Postorder Traversal | https://leetcode.com/problems/binary-tree-postorder-traversal/
 RightView Of Binary Tree | https://leetcode.com/problems/binary-tree-right-side-view/
 Bottom Left Tree Value | https://leetcode.com/problems/find-bottom-left-tree-value/
+Left View Binary Tree | https://practice.geeksforgeeks.org/problems/left-view-of-binary-tree/1
 
 ### Extras
 Topic | Link
