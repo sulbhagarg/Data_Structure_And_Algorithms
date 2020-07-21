@@ -112,6 +112,7 @@ Find All Anagrams in a String | https://leetcode.com/problems/find-all-anagrams-
 Topic | Link
 --- | ---
 Inorder Traversal | https://leetcode.com/problems/binary-tree-inorder-traversal/
+Preorder Traversal | https://leetcode.com/problems/binary-tree-preorder-traversal/
 
 ### Extras
 Topic | Link
