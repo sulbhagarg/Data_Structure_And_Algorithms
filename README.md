@@ -113,6 +113,7 @@ Topic | Link
 --- | ---
 Inorder Traversal | https://leetcode.com/problems/binary-tree-inorder-traversal/
 Preorder Traversal | https://leetcode.com/problems/binary-tree-preorder-traversal/
+Postorder Traversal | https://leetcode.com/problems/binary-tree-postorder-traversal/
 
 ### Extras
 Topic | Link
