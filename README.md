@@ -118,6 +118,17 @@ RightView Of Binary Tree | https://leetcode.com/problems/binary-tree-right-side-
 Bottom Left Tree Value | https://leetcode.com/problems/find-bottom-left-tree-value/
 Left View Binary Tree | https://practice.geeksforgeeks.org/problems/left-view-of-binary-tree/1
 Level Order Traversal | https://leetcode.com/problems/binary-tree-level-order-traversal/
+Level Order Traversal Spiral | https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/
+Height Of A Binary Tree | https://leetcode.com/problems/maximum-depth-of-binary-tree/
+Diameter of A Binary Tree | https://leetcode.com/problems/diameter-of-binary-tree/
+Check if Binary tree is height balanced or not | https://leetcode.com/problems/balanced-binary-tree/
+LCA in Binary Tree | https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/
+Check if two trees are identical or not | https://leetcode.com/problems/same-tree/
+Maximum path sum | https://leetcode.com/problems/binary-tree-maximum-path-sum/
+Construct Binary Tree from Inorder and Preorder | https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/
+Construct Binary Tree from Inorder and Postorder | https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/
+Symmetric Binary Tree | https://leetcode.com/problems/symmetric-tree/
+Flatten Binary Tree to LinkedList | https://leetcode.com/problems/flatten-binary-tree-to-linked-list/
 
 ### Extras
 Topic | Link
