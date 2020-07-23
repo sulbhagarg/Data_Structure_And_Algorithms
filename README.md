@@ -130,6 +130,11 @@ Construct Binary Tree from Inorder and Postorder | https://leetcode.com/problems
 Symmetric Binary Tree | https://leetcode.com/problems/symmetric-tree/
 Flatten Binary Tree to LinkedList | https://leetcode.com/problems/flatten-binary-tree-to-linked-list/
 
+### Binary Search Tree
+Topic | Link
+--- | ---
+Seacrh In BST | https://leetcode.com/problems/search-in-a-binary-search-tree/
+
 ### Extras
 Topic | Link
 --- | ---
