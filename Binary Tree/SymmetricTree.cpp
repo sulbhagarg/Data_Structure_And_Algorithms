@@ -59,4 +59,20 @@ public:
 
 // recursive
 
-coming soon..
+class Solution {
+public:
+    bool isSymmetricHelper(TreeNode* l, TreeNode* r){
+        if(!l && !r)
+            return true;
+        if(!l || !r)
+            return false;
+        bool t1 = isSymmetricHelper(l->left,r->right);
+        bool t2 = isSymmetricHelper(l->right,r->left);
+        return (l->val==r->val) && (t1 && t2);
+    }
+    bool isSymmetric(TreeNode* root) {
+        if(!root || (!root->left && !root->right))
+            return true;
+        return isSymmetricHelper(root->left, root->right);
+    }
+};
