@@ -135,6 +135,7 @@ Topic | Link
 --- | ---
 Seacrh In BST | https://leetcode.com/problems/search-in-a-binary-search-tree/
 Check is a BT is BST or not | https://leetcode.com/problems/validate-binary-search-tree/
+LCA in BST | https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/
 
 ### Extras
 Topic | Link
