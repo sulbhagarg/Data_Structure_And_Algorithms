@@ -134,6 +134,7 @@ Flatten Binary Tree to LinkedList | https://leetcode.com/problems/flatten-binary
 Topic | Link
 --- | ---
 Seacrh In BST | https://leetcode.com/problems/search-in-a-binary-search-tree/
+Check is a BT is BST or not | https://leetcode.com/problems/validate-binary-search-tree/
 
 ### Extras
 Topic | Link
