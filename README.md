@@ -139,6 +139,7 @@ LCA in BST | https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-se
 Construct BST from Sorted Array | https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/
 Find the inorder predecessor/successor of a given Key in BST | https://practice.geeksforgeeks.org/problems/predecessor-and-successor/1
 Kth Smallest Element in a BST | https://leetcode.com/problems/kth-smallest-element-in-a-bst/
+Find a pair with a given sum in BST | https://leetcode.com/problems/two-sum-iv-input-is-a-bst/
 
 ### Extras
 Topic | Link
