@@ -107,6 +107,7 @@ Reverse Word In a Substring | https://leetcode.com/problems/reverse-words-in-a-s
 Valid Anagram | https://leetcode.com/problems/valid-anagram/
 Group Anagrams | https://leetcode.com/problems/group-anagrams/
 Find All Anagrams in a String | https://leetcode.com/problems/find-all-anagrams-in-a-string/
+Minimum characters needed to be inserted in the beginning to make it palindromic | https://leetcode.com/problems/shortest-palindrome/
 
 ### Binary Tree
 Topic | Link
