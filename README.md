@@ -142,6 +142,11 @@ Find the inorder predecessor/successor of a given Key in BST | https://practice.
 Kth Smallest Element in a BST | https://leetcode.com/problems/kth-smallest-element-in-a-bst/
 Find a pair with a given sum in BST | https://leetcode.com/problems/two-sum-iv-input-is-a-bst/
 
+### Graphs
+Topic | Link
+--- | ---
+DFS | https://practice.geeksforgeeks.org/problems/depth-first-traversal-for-a-graph/1
+
 ### Extras
 Topic | Link
 --- | ---
