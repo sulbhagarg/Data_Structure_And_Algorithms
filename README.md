@@ -147,6 +147,7 @@ Topic | Link
 --- | ---
 DFS | https://practice.geeksforgeeks.org/problems/depth-first-traversal-for-a-graph/1
 BFS | https://practice.geeksforgeeks.org/problems/bfs-traversal-of-graph/1/
+Detect A cycle in Directed Graph | https://practice.geeksforgeeks.org/problems/detect-cycle-in-a-directed-graph/1
 
 ### Extras
 Topic | Link
