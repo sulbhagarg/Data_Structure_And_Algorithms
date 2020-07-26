@@ -146,6 +146,7 @@ Find a pair with a given sum in BST | https://leetcode.com/problems/two-sum-iv-i
 Topic | Link
 --- | ---
 DFS | https://practice.geeksforgeeks.org/problems/depth-first-traversal-for-a-graph/1
+BFS | https://practice.geeksforgeeks.org/problems/bfs-traversal-of-graph/1/
 
 ### Extras
 Topic | Link
